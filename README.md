@@ -25,6 +25,10 @@ const rajverma = {
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrajverma&show_icons=true" alt="reisub0" /> 
 
+</p>
+<p align="left"> </p>
 ---
 ⭐️ From [@itsrajvema](https://github.com/itsrajverma)
