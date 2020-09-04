@@ -3,8 +3,8 @@
 ## नमस्ते 🙏, I'm Raj Verma 
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/itsrajverma/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:info.mrverma@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-itsrajverma-blue)](https://www.linkedin.com/in/itsrajverma/)
+[![](https://img.shields.io/badge/Gmail-info.mrverma%40gmail.com-red)](mailto:info.mrverma@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
