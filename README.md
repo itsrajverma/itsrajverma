@@ -19,7 +19,7 @@ const rajverma = {
         mobileApp: ["ionic","angular"],
         database: ["mongo","mySql","sql"],
         serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx",
+        devOps: ["AWS", "Nginx"]
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
