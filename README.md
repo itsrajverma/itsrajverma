@@ -15,11 +15,11 @@ const rajverma = {
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
         backEnd: ["nodejs", "express", "python", "php"],
-        fronEnd: ["angular","react"],
-        mobileApp: ["ionic","angular"],
+        fronEnd: ["angular","react","react-native"],
+        mobileApp: ["ionic","angular","react-native","swift","java"],
         database: ["mongo","mySql","sql"],
         serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx"]
+        devOps: ["AWS", "Nginx"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
