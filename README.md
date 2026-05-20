@@ -85,10 +85,6 @@ Plug-and-play social authentication for Angular 12+.
 ### 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsrajverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=14400" alt="Raj's GitHub stats" />
-</p>
-
-<p>
   <img src="https://github-profile-trophy.vercel.app/?username=itsrajverma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
 </p>
 
